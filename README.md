@@ -1,6 +1,3 @@
-Here’s a polished **README.md** you can put in your GitHub repo for the project 👇
-
----
 
 # Retail Sales Analysis (SQL)
 
@@ -130,5 +127,3 @@ ORDER BY Shift;
 * Use results for reporting, dashboards, or further ML/BI analysis.
 
 ---
-
-Would you like me to also add a **sample ER diagram (schema)** to the README (generated as an image), so your repo looks more professional?
